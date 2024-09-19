@@ -1,4 +1,4 @@
-# Customer-Segmentation-RFM-Kmean-Cluster-and-Recommendations
+# Customer-Segmentation-RFM-Kmean
 ## Business Problem:
 
 An e-commerce company is facing challenges in optimizing its marketing and customer retention strategies. While some customers appear highly engaged, others show signs of reduced activity or are at risk of disengagement. Currently, the company employs a one-size-fits-all approach to customer engagement, which results in inefficiencies in marketing spend and missed opportunities to maximize customer lifetime value.
